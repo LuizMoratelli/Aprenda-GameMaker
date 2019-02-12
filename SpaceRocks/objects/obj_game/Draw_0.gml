@@ -2,7 +2,8 @@
 switch(room) {
 	case rm_game:
 		draw_text(20, 20, "SCORE: " + string(score));
-		draw_text(20, 40, "LIVES: " + string(lives));
+		draw_text(20, 40, "MULTIPLIER: " + string(global.scoreMultiplier));	
+		draw_text(20, 60, "LIVES: " + string(lives));
 		break;
 		
 	case rm_start:

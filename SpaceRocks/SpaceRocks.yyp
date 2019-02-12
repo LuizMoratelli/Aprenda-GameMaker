@@ -191,6 +191,14 @@
             }
         },
         {
+            "Key": "9215c9df-c7d5-4b28-b601-8fa01c97289f",
+            "Value": {
+                "id": "e1c72b43-4c73-4662-89ca-12e0c627606f",
+                "resourcePath": "objects\\obj_powerup\\obj_powerup.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "93f54f55-cf42-45f6-bb28-6b7ea7f26c1c",
             "Value": {
                 "id": "53ef16d0-5cc7-4eb2-b1a0-660044268e3c",
@@ -263,6 +271,14 @@
             }
         },
         {
+            "Key": "c6875a3d-299c-4a8b-8f23-0cbbd458f732",
+            "Value": {
+                "id": "77d426c3-5b5a-425b-bd43-66d51824935b",
+                "resourcePath": "sprites\\spr_ship_indestructible\\spr_ship_indestructible.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c977a933-ceae-445e-82e5-2a172e0a3ac1",
             "Value": {
                 "id": "17e09c48-d198-4dc9-8b1f-2cde4e893b94",
@@ -284,6 +300,14 @@
                 "id": "e49c53f2-63de-4afc-a981-95cec120306a",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "d22f4b3d-6ff5-4da6-8c4f-992f3936923c",
+            "Value": {
+                "id": "a2e4ce71-86f1-4b79-8597-a2883f46d0b3",
+                "resourcePath": "sprites\\spr_score_multiplier\\spr_score_multiplier.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -348,6 +372,14 @@
                 "id": "ed8d6ece-be9b-4162-893a-e2d2b2c2b4df",
                 "resourcePath": "views\\fa2aa1a7-049c-4c07-9aaf-9f00bda9c44d.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "fdaf9e94-a1a8-4a7e-a812-64131282427b",
+            "Value": {
+                "id": "47932b3d-9b98-4040-88a9-b216211b5aaa",
+                "resourcePath": "sprites\\spr_shield\\spr_shield.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

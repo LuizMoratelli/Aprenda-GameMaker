@@ -1,6 +1,6 @@
 /// @description 
 //Add score
-score += 10;
+score += 10 * global.scoreMultiplier;
 
 audio_play_sound(snd_die, 1, false);
 
@@ -26,6 +26,10 @@ with(other) {
 	
 	repeat(10){
 		instance_create_layer(x, y, "Instances", obj_debris);
+	}
+	
+	if (irandom_range(0, 99) > 90) {
+		instance_create_layer(x, y, "Instances", obj_powerup);
 	}
 }
 

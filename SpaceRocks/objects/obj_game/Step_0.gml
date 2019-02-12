@@ -19,6 +19,6 @@ if (room == rm_game) {
 	}
 	if (lives <= 0) {
 		room_goto(rm_gameover);
-		audio_play_sound(snd_gameover, 1, false);
+		//audio_play_sound(snd_gameover, 1, false);
 	}
 }
